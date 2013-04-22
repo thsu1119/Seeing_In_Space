@@ -1,0 +1,18 @@
+===Grey out vision==
+A greyout (also whiteout) is a transient loss of vision characterized by a perceived dimming of light and color, sometimes accompanied by a loss of peripheral vision.[1] It is a precursor to fainting or a blackout and is caused by hypoxia (low brain oxygen level), often due to a loss of blood pressure.
+Greyouts have a variety of possible causes:
+-Shock, such as Hypovolemia, even in mild form such as when drawing blood.
+
+-Suddenly standing up (see orthostatic hypotension), especially if sick, hungover, or suffering from low blood pressure.
+
+-By pilots or roller coaster riders experiencing positive g-force.
+
+-Paradoxically, hyperventilation, such as the fainting game, self-induced hypocapnia, or shallow water blackout.
+-Overexertion
+
+==Method for tests==
+-Since it is a temporary thing it is hard to make tests unless forcing someone to experience a g-force?
+
+-so solution might be to show a video and asks user if they share similar experience.
+
+
